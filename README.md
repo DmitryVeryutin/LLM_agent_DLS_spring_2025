@@ -6,6 +6,12 @@ My LangChain LLM agent as diploma project for DLS (2nd semester, spring 2025)
 Для запуска также потребуются API-ключи tavily и сервиса Vse_GPT.
 
 **Схема графа:** (точками обозначены связи, между которыми происходит выбор, звездочками - фиксированные связи)
+
+
+<p float="centered">
+  <img src="Agent_scheme.jpg" width=49% />
+</p>
+
                      +-----------+                 
                      | __start__ |                 
                      +-----------+                 
